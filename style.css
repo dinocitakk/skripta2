@@ -1,0 +1,45 @@
+body {
+  font-family: Arial;
+  background-color: white;
+  color: black;
+  margin: 20px;
+}
+
+h1 {
+  color: rgb(25, 0, 139);
+}
+
+h2 {
+  color: rgb(0, 128, 2);
+}
+
+.code-box {
+  background-color: #f1f1f1;
+  padding: 10px;
+  border: 1px solid #ccc;
+  font-family: monospace;
+  width: 600px;
+}
+
+.glavni-naslov {
+  font-family: 'Oswald', sans-serif;
+  font-size: 40px;
+  text-align: center;
+  color: darkblue;
+  text-decoration: underline;
+}
+
+.naslov-lekcija2 {
+  margin-top: 50px;
+  margin-bottom: 30px;
+}
+
+
+.real-gradient-box {
+  background: linear-gradient(to right, purple, pink);
+  padding: 20px;
+  color: white; 
+  opacity: 0.7;
+  margin-top: 10px;
+  width: 600px;
+}
